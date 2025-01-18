@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to FercaBank accounts related webhook-new2 APIs "
+  message: "Welcome to FercaBank accounts related webhook-new3 APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
